@@ -1,0 +1,47 @@
+[THREE HOURS TO ATHENS]
+
+Core mechanic
+    "Endless" runner jumping over obstacles
+
+Core gameplay loop
+    Running, obstacle appears, jump the obstacle
+
+Intended player experience
+    Quick arcade-style experience, with a reward for people who make it all the way
+
+Theme
+    Classical Greece - maybe with a pottery aesthetic (Agon, Disney's Hercules)
+
+Primary features
+    Runner (3 sprites for running, 2 for jumping, 2 for starting running?)
+    Obstacles (themed for ancient Greece)
+    Running scenery - through the fennel fields
+
+Secondary features
+    Beginning scene in Marathon
+    Ending scene in Athens (a few sprites for dying)
+    Music (as it was in ancient Greece)
+    Jump sound effect
+
+Polish
+    Add Pan
+    Differing scenery
+    Gag animations (checking tamagotchi, pokemon go egg hatches, you've hit your step goal for the day, etc.)
+
+What do I need to learn?
+    How to program an endless runner
+    What were things like in ancient Greece? What can I use as obstacles?
+    How to use parallax backgrounds
+
+Workflow
+    Draw Pheidippides sprites (3 running, 2 jumping, 2 starting)
+    Draw obstacles sprites (???)
+    Draw scenery (looping fennel field)
+    Program game loop, using miles as the counter
+    Add music and sound effects
+    Draw end scene in Athens
+    Draw extra sprites (2 stopping, 2 doubled over, 3 dying)
+    Program end scene
+    Draw start scene in Marathon
+    Draw extra sprites (2 talking, 2 setting off)
+    Program start scene
